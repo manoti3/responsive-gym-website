@@ -167,7 +167,7 @@ Contact Us
 <ion-icon name="call" aria-hidden="true"></ion-icon>
 
 1800-121-3637
-+91 555 234-8765
++254792851033
 
 <ion-icon name="mail" aria-hidden="true"></ion-icon>
 
